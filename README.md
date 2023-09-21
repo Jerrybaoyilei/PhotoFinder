@@ -1,5 +1,5 @@
 # PhotoFinder
-Individual final project for CS 5610: Web Development at Northeastern University. 
+Individual final project for CS 5610: Web Development at Northeastern University. \\
 This website provides people with relevant information to take stunning photos at both their familiar places and new areas. 
 Although users can see photos when they click on a specific location on Google Maps, the experience is not really optimized for photography. 
 Some photos are stunning results from photographers, whereas others are more average and simply show what the place looks like. More importantly, for experienced photographers, there is no way to find information crucial to taking a good photo –– lighting information, for example –– by looking up a location on Google Maps. Such information, provided with some guidance on how to reading them, is even more crucial for non-enthusiasts to take a stunning photo with their phone cameras. 
