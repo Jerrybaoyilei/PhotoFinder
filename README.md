@@ -1,5 +1,5 @@
 # PhotoFinder
-Individual final project for CS 5610: Web Development at Northeastern University. Based on the learning of completing [Kanbas Project](https://github.com/Jerrybaoyilei/kanbas-react-web-app)
+Individual final project for CS 5610: Web Development at Northeastern University. Based on the learning of completing [Kanbas Project](https://github.com/Jerrybaoyilei/kanbas-react-web-app).
 
 This website provides people with relevant information to take stunning photos at both their familiar places and new areas. 
 
